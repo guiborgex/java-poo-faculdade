@@ -6,7 +6,7 @@ Repositório com atividades da disciplina de Análise e Projeto Orientado a Obje
 
 - Nome: Guilherme Borges de Gouveia
 - RA: 26006989-2
-- Turma: Engenharia de Software | 3º Período Noite
+- Turma: Engenharia de Software | 3º Período Noite | Turma A
 - Disciplina: ANÁLISE E PROJETO ORIENTADO A OBJETOS
 - Professor: JOSE CARLOS DOMINGUES FLORES
 - Instituição: Unicesumar
